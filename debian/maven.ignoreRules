@@ -1,0 +1,21 @@
+
+junit junit * * * *
+org.apache.maven.plugins maven-release-plugin * * * *
+org.hamcrest hamcrest-library * * * *
+org.mockito mockito-core * * * *
+org.slf4j slf4j-simple * * * *
+org.sonatype.plugins nexus-staging-maven-plugin * * * *
+org.springframework.boot spring-boot-loader-tools * * * *
+org.springframework.boot spring-boot-loader * * * *
+org.webjars angular-translate * * * *
+org.webjars angular-tree-control * * * *
+org.webjars angularjs * * * *
+org.webjars bootstrap * * * *
+org.webjars bootswatch-yeti * * * *
+org.webjars jquery * * * *
+org.webjars less-node * * * *
+org.webjars requirejs * * * *
+org.webjars select2 * * * *
+org.webjars when-node * * * *
+org.webjars.npm angular-ui-router * * * *
+org.webjars.npm babel-core * * * *

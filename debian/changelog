@@ -1,0 +1,12 @@
+webjars-locator-core (0.30-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 02:26:31 +0100
+
+webjars-locator-core (0.30-1) unstable; urgency=medium
+
+  * Initial release (Closes: #825316)
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Thu, 26 May 2016 08:46:23 +0200

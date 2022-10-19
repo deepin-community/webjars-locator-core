@@ -1,0 +1,2 @@
+version=3
+https://github.com/webjars/webjars-locator-core/tags .*/(?:.*?)([\d\.]+)\.tar\.gz
